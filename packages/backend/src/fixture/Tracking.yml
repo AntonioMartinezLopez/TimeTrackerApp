@@ -1,0 +1,7 @@
+entity: Tracking
+items:
+  testTracking:
+    description: "This is a test Tracking"
+    startTime: "2020-11-13T08:03:12.050Z"
+    endTime: "2020-11-13T08:09:32.070Z"
+    task: "@testTask"

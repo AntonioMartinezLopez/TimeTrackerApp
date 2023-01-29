@@ -1,0 +1,4 @@
+entity: Label
+items:
+  testLabel:
+    name: "This is a test Label"

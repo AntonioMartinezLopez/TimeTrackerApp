@@ -1,0 +1,7 @@
+entity: Task
+items:
+  testTask:
+    name: "Task1"
+    description: "This is a test Task"
+    labels:
+      - "@testLabel"
